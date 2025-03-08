@@ -1,0 +1,4 @@
+[
+    {"id": 0,   "name":"test", "actorId": 1, "enemyId": 5},
+    {"id": 1,   "name":"test", "actorId": 51, "enemyId": 1}
+  ]

@@ -1,0 +1,8 @@
+[
+    { "id": 0, "name": "Test",  "seasonal":false,   "itemId": 0, "stepsId": 0 },
+    { "id": 1, "name": "Blé",   "seasonal":false,   "itemId": 1, "stepsId":1},
+    { "id": 2, "name": "Navet", "seasonal":false,   "itemId": 2, "stepsId":2},
+    { "id": 3, "name": "Orge",  "seasonal":false,   "itemId": 3, "stepsId":3},
+    { "id": 4, "name": "Sapin", "seasonal":false,   "itemId": 4, "stepsId":4},
+    { "id": 5, "name": "Vigne", "seasonal":false,   "itemId": 4, "stepsId":5}
+]

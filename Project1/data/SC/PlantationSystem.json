@@ -1,0 +1,6 @@
+{
+    "maxFertilizer":15,
+    "maxFertilizerCons":3,
+    "maxIrrigation":4,
+    "maxGrow":300
+}

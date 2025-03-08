@@ -1,0 +1,23 @@
+{
+    
+    "minutes_per_hour"  :60,
+    "hours_per_day"     :24,
+    "days_per_month"    :30,
+    "months_per_year"   :12,
+    "start_timestamp"   :124654900,
+    "tick_per_min"      :[10000, 100, 50, 20, 1],
+    "days_of_decade"    :["Lundar", "Timardar", "Wercredar", "Tjeurdar", "Vedirdar", "Saturmdar", "Soledar", "Savordar", "Aturdar", "Angeldar"],
+    "months_of_year"    :["Janur", "Fervor", "Martial", "Aphrodys", "Manys", "Junur", "Julfuria", "Augrut", "Septim", "Octos", "Nova", "Deshyone"],
+    "seasons_global"    :["Atural", "Solar", "Ougaral", "Shyonal"],
+    "seasons_local"     :["Lumina", "Furiani", "Golema", "Tritonga"],
+    "fr_FR":{
+        "dayParts"          :[null,"aube", "matin", "zenith", "après midi", "soir", "crepuscule", "nuit"],
+        "wordingTemplate"   :"%1 %2 de la %3%4 décade du mois de %5 de l'an %6 $%7:%8",
+        "wordingShortTemplate"   :"%1 %2%4 %3 %5"
+    },
+    "en_EN":{
+        "dayParts"          :[null, "dawn", "morning", "zenith", "afternoon", "evening", "twilight", "night"],
+        "wordingTemplate"   :"%1 of the %3%4 decade  %2 of the %5 month of the %6 year at $%7:%8",
+        "wordingShortTemplate"   :"%1 %3 %2%4 %5"
+    }
+}

@@ -1,0 +1,4 @@
+[
+    {"id":0,   "name":"test",   "needToGrow":1,   "growSpeed":1,   "itemId":1,  "maxNum":1,   "nextStepSomeDie":1,   "nextStepDie":1,   "nextStepGrow":1},
+    {"id":1,   "name":"blé",   "needToGrow":1,   "growSpeed":1,   "itemId":1,  "maxNum":1,   "nextStepSomeDie":1,   "nextStepDie":1,   "nextStepGrow":1}
+]

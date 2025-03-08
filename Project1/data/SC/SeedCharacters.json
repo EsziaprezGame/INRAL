@@ -1,0 +1,28 @@
+[
+    { "id": 0,  "name": "", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 1,  "name": "Gather_0", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 2,  "name": "Gather_1", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 3,  "name": "Gather_1", "index": 0, "dir": 4, "stepAnim": false },
+    { "id": 4,  "name": "Gather_1", "index": 0, "dir": 6, "stepAnim": false },
+    { "id": 5,  "name": "Gather_1", "index": 0, "dir": 8, "stepAnim": false },
+    { "id": 6,  "name": "Gather_2", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 7,  "name": "Gather_2", "index": 0, "dir": 4, "stepAnim": false },
+    { "id": 8,  "name": "Gather_2", "index": 0, "dir": 6, "stepAnim": false },
+    { "id": 9,  "name": "Gather_2", "index": 0, "dir": 8, "stepAnim": false },
+    { "id": 10, "name": "Gather_3", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 11, "name": "Gather_3", "index": 0, "dir": 4, "stepAnim": false },
+    { "id": 12, "name": "Gather_3", "index": 0, "dir": 6, "stepAnim": false },
+    { "id": 13, "name": "Gather_3", "index": 0, "dir": 8, "stepAnim": false },
+    { "id": 14, "name": "Gather_0", "index": 0, "dir": 4, "stepAnim": false },
+    { "id": 15, "name": "Gather_4", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 16, "name": "Gather_4", "index": 0, "dir": 4, "stepAnim": false },
+    { "id": 17, "name": "Gather_4", "index": 0, "dir": 6, "stepAnim": false },
+    { "id": 18, "name": "Gather_4", "index": 0, "dir": 8, "stepAnim": false },
+    { "id": 19, "name": "Gather_4", "index": 5, "dir": 2, "stepAnim": false },
+    { "id": 20, "name": "Gather_5", "index": 0, "dir": 2, "stepAnim": false },
+    { "id": 21, "name": "Gather_5", "index": 0, "dir": 4, "stepAnim": false },
+    { "id": 22, "name": "Gather_5", "index": 0, "dir": 6, "stepAnim": false },
+    { "id": 23, "name": "Gather_5", "index": 0, "dir": 8, "stepAnim": false },
+    { "id": 24, "name": "Gather_5", "index": 5, "dir": 2, "stepAnim": false }
+
+]
